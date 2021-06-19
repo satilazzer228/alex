@@ -36,7 +36,7 @@ async def get_start(msg: types.Message):
     await bot.send_photo(msg.from_user.id,
                          photo="https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto,q_auto,"
                                "f_auto/gigs/129258377/original/678eaed5d12dfcab0f20d0a3d3bcdc4785afb4d5.png")
-    await msg.answer(f"Привет " + hbold(name) + "! Я бот предназначенный для постинга новых машин\n"
+    await msg.answer(f"Привет " + hbold(name) + f"! Я бот предназначенный для постинга новых курсов с сайта {hlink(SITE_LINK, 'udemy')}\n"
                                                 "Если хочешь получать уведомления от меня подпишись!\n"
                                                 "on - подписаться\noff - отписаться", reply_markup=keyboard)
 
