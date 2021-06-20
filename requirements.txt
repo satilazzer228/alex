@@ -2,3 +2,4 @@ requests==2.23.0
 lxml==4.6.2
 beautifulsoup4==4.9.3
 aiogram==2.11.2
+selenium==3.141.0
