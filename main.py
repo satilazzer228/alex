@@ -5,15 +5,10 @@ import time
 
 import requests
 from bs4 import BeautifulSoup
-from fake_useragent import UserAgent
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
 from config import BOT_TOKEN, login, password
-import pyautogui as pg
-
-# useragent
-useragent = UserAgent()
 
 
 def send_message(chat_id, text):  # send telegram message
@@ -50,7 +45,8 @@ def find_urls(url):
     headers = {
         # "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
         # Chrome/89.0.4389.128 Safari/537.36 OPR/75.0.3969.285"
-        "user-agent": f"{useragent.random}"
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) "
+                      "Chrome/90.0.4430.212 Safari/537.36 "
     }
     r = requests.get(url, headers=headers)
     data = json.loads(r.text)  # data of course(json)
@@ -78,7 +74,6 @@ def find_urls(url):
                 file.seek(0)
                 json.dump(courses_data, file, indent=4, ensure_ascii=False)
             send_message(1792076176, name)
-        print(price, language)
 
 
 async def main():
@@ -109,9 +104,10 @@ async def post():
                 options = webdriver.FirefoxOptions()
                 # user-agent
                 options.set_preference("general.useragent.override",
-                                       f"{useragent.random}")
+                                       "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, "
+                                       "like Gecko) Chrome/90.0.4430.212 Safari/537.36")
                 headers = {
-                    'user-agent': useragent.random
+                    'user-agent': "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
                 }
                 # disable webdriver mode
                 options.set_preference("dom.webdriver.enabled", False)
@@ -124,7 +120,7 @@ async def post():
                 # course info
                 r = requests.get(value[0], headers=headers)
                 soup = BeautifulSoup(r.text, 'lxml')
-                desc_list = soup.find(class_ = "ud-component--course-landing-page-udlite--description").find_all('p')
+                desc_list = soup.find(class_="ud-component--course-landing-page-udlite--description").find_all('p')
                 ###
 
                 # same dict
@@ -181,14 +177,15 @@ async def post():
                 time.sleep(1)
                 # driver.find_element_by_name('share_fixed_contrib').click()
                 time.sleep(1)
-                #driver.find_element_by_id('ctrl_locked_organize').click()
+                # driver.find_element_by_id('ctrl_locked_organize').click()
                 time.sleep(1)
                 # desc of post and next frame
                 driver.switch_to.frame(driver.find_element_by_class_name('redactor_textCtrl'))
                 driver.find_element_by_tag_name('body').clear()
                 time.sleep(3)
                 desc = ''.join(f"{sym.text}\n" for sym in desc_list)
-                driver.find_element_by_tag_name('body').send_keys(key + "\n\n" + "Описание" + "\n\n" + desc + "\n\n" + value[0] + Keys.ENTER)
+                driver.find_element_by_tag_name('body').send_keys(
+                    key + "\n\n" + "Описание" + "\n\n" + desc + "\n\n" + value[0] + Keys.ENTER)
                 time.sleep(5)
             except Exception as ex:
                 # send error
