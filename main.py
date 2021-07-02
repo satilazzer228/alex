@@ -89,11 +89,11 @@ async def main():
                 with multiprocessing.Pool(processes=4) as pool:  # multiprocessing
                     all_pages_list = [
                         f'https://www.udemy.com/api-2.0/discovery-units/all_courses/?p={page}&page_size=16&subcategory=&instructional_level=&lang=&price=&duration=&closed_captions=&subs_filter_type=&sort=newest&category_id={page_id}&source_page=category_page&locale=ru_RU&currency=usd&navigation_locale=en_US&skip_price=true&sos=pc&fl=cat'
-                        for page in range(1, 5)]  # page_number index of url
+                        for page in range(1, 100)]  # page_number index of url
                     pool.map(find_urls, all_pages_list)
                 # wait while post
                 await post()  # wait while sleep
-            await asyncio.sleep(100)
+            await asyncio.sleep(1000)
         except Exception as e:
             pass
 
