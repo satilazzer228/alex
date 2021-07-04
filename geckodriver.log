@@ -578,3 +578,117 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1625297997143	geckodriver	INFO	Listening on 127.0.0.1:65354
+1625297997687	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile3lOz9O"
+1625297998403	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile3lOz9O\\search.json.mozlz4", (void 0)))
+1625298000432	Marionette	INFO	Listening on port 65359
+1625298000900	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.06c6ee58c3810956b7509218508c7b56.html?origin=https%3A%2F%2Fskladchik.com, line 18: Error: Network error.
+1625298042604	Marionette	INFO	Stopped listening on port 65359
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625298043275	geckodriver	INFO	Listening on 127.0.0.1:49216
+1625298043863	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileywEQaJ"
+1625298044179	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileywEQaJ\\search.json.mozlz4", (void 0)))
+1625298046257	Marionette	INFO	Listening on port 49221
+1625298046547	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625298086718	Marionette	INFO	Stopped listening on port 49221
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625298087355	geckodriver	INFO	Listening on 127.0.0.1:49296
+1625298087896	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile6N4Nzg"
+1625298088237	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile6N4Nzg\\search.json.mozlz4", (void 0)))
+1625298090110	Marionette	INFO	Listening on port 49301
+1625298090576	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625298135608	Marionette	INFO	Stopped listening on port 49301
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625298136330	geckodriver	INFO	Listening on 127.0.0.1:49389
+1625298136872	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileUzlRqs"
+1625298137203	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileUzlRqs\\search.json.mozlz4", (void 0)))
+1625298138914	Marionette	INFO	Listening on port 49394
+1625298138942	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625298183473	Marionette	INFO	Stopped listening on port 49394
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625298184115	geckodriver	INFO	Listening on 127.0.0.1:49467
+1625298184644	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileoFCEL9"
+1625298184943	Marionette	INFO	Marionette enabled
+1625298302632	geckodriver	INFO	Listening on 127.0.0.1:49567
+1625298303175	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileAbxaDp"
+*** You are running in headless mode.
+1625298303485	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileAbxaDp\\search.json.mozlz4", (void 0)))
+1625298304708	Marionette	INFO	Listening on port 49572
+1625298304729	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 129: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 129: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.06c6ee58c3810956b7509218508c7b56.html?origin=https%3A%2F%2Fskladchik.com, line 18: Error: Network error.
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1625298355326	Marionette	INFO	Stopped listening on port 49572
+1625298531122	geckodriver	INFO	Listening on 127.0.0.1:58298
+1625298531662	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileJAMzMF"
+1625298531972	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileJAMzMF\\search.json.mozlz4", (void 0)))
+1625298533811	Marionette	INFO	Listening on port 58303
+1625298534315	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.06c6ee58c3810956b7509218508c7b56.html?origin=https%3A%2F%2Fskladchik.com, line 18: Error: Network error.
+1625298602613	Marionette	INFO	Stopped listening on port 58303
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625299278218	geckodriver	INFO	Listening on 127.0.0.1:58563
+1625299278766	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilex9R2zR"
+1625299279529	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilex9R2zR\\search.json.mozlz4", (void 0)))
+1625299281632	Marionette	INFO	Listening on port 58569
+1625299281947	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.06c6ee58c3810956b7509218508c7b56.html?origin=https%3A%2F%2Fskladchik.com, line 18: Error: Network error.
+1625299340986	Marionette	INFO	Stopped listening on port 58569
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625299945658	geckodriver	INFO	Listening on 127.0.0.1:59039
+1625299946211	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilemG1bOr"
+1625299946583	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilemG1bOr\\search.json.mozlz4", (void 0)))
+1625299948371	Marionette	INFO	Listening on port 59045
+1625299948874	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.06c6ee58c3810956b7509218508c7b56.html?origin=https%3A%2F%2Fskladchik.com, line 18: Error: Network error.
+1625300007363	Marionette	INFO	Stopped listening on port 59045
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

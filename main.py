@@ -88,7 +88,7 @@ async def main():
                     pool.map(find_urls, all_pages_list)
                 # wait while post
                 await post()  # wait while sleep
-            await asyncio.sleep(1000)
+            await asyncio.sleep(1)
         except Exception as e:
             pass
 
@@ -102,12 +102,17 @@ async def post():
             try:
                 # driver init
                 options = webdriver.FirefoxOptions()
+
+                # headless mode
+                # options.headless = True
+
                 # user-agent
                 options.set_preference("general.useragent.override",
                                        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, "
                                        "like Gecko) Chrome/90.0.4430.212 Safari/537.36")
                 headers = {
-                    'user-agent': "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+                    'user-agent': "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) "
+                                  "Chrome/90.0.4430.212 Safari/537.36 "
                 }
                 # disable webdriver mode
                 options.set_preference("dom.webdriver.enabled", False)
@@ -177,7 +182,10 @@ async def post():
                 time.sleep(1)
                 # driver.find_element_by_name('share_fixed_contrib').click()
                 time.sleep(1)
-                # driver.find_element_by_id('ctrl_locked_organize').click()
+                try:
+                    driver.find_element_by_id('ctrl_locked_organize').click()
+                except:
+                    pass
                 time.sleep(1)
                 # desc of post and next frame
                 driver.switch_to.frame(driver.find_element_by_class_name('redactor_textCtrl'))
@@ -185,8 +193,12 @@ async def post():
                 time.sleep(3)
                 desc = ''.join(f"{sym.text}\n" for sym in desc_list)
                 driver.find_element_by_tag_name('body').send_keys(
-                    key + "\n\n" + "Описание" + "\n\n" + desc + "\n\n" + value[0] + Keys.ENTER)
-                time.sleep(5)
+                    key + "\n\n" + "Описание" + "\n\n" + desc + "\n\n" + value[0])
+                time.sleep(3)
+                # make theme
+                driver.switch_to.default_content()
+                driver.find_element_by_class_name('button').click()
+                time.sleep(20)
             except Exception as ex:
                 # send error
                 send_message(1792076176, 'ошибка')
