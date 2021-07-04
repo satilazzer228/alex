@@ -104,7 +104,7 @@ async def post():
                 options = webdriver.FirefoxOptions()
 
                 # headless mode
-                # options.headless = True
+                options.headless = True
 
                 # user-agent
                 options.set_preference("general.useragent.override",
@@ -202,6 +202,7 @@ async def post():
             except Exception as ex:
                 # send error
                 send_message(1792076176, 'ошибка')
+                print(ex)
             finally:
                 driver.close()
                 driver.quit()

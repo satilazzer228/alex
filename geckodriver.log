@@ -692,3 +692,14 @@ JavaScript error: https://platform.twitter.com/widgets/widget_iframe.06c6ee58c38
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1625383528212	geckodriver	INFO	Listening on 127.0.0.1:58862
+1625383528748	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilefeQA8z"
+1625383529878	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilefeQA8z\\search.json.mozlz4", (void 0)))
+1625383533648	Marionette	INFO	Listening on port 58867
+1625383534085	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.06c6ee58c3810956b7509218508c7b56.html?origin=https%3A%2F%2Fskladchik.com, line 18: Error: Network error.
+1625383578808	Marionette	INFO	Stopped listening on port 58867
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
