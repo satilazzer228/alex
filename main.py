@@ -88,7 +88,7 @@ async def main():
                     pool.map(find_urls, all_pages_list)
                 # wait while post
                 await post()  # wait while sleep
-            await asyncio.sleep(1)
+            await asyncio.sleep(100)
         except Exception as e:
             pass
 
@@ -198,7 +198,7 @@ async def post():
                 # make theme
                 driver.switch_to.default_content()
                 driver.find_element_by_class_name('button').click()
-                time.sleep(20)
+                time.sleep(5)
             except Exception as ex:
                 # send error
                 send_message(1792076176, 'ошибка')
