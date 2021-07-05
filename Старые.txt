@@ -4,7 +4,6 @@ https://www.udemy.com/course/javamm-project/
 https://www.udemy.com/course/mvvm-ios/
 https://www.udemy.com/course/fastmodelingtp/
 https://www.udemy.com/course/amrunru-wordpress/
-https://www.udemy.com/course/swift-4-spritekit-space-war-2018/
 https://www.udemy.com/course/sait-za-40-chasov/
 https://www.udemy.com/course/django-pavlov-school/
 https://www.udemy.com/course/macos-swift-xcode-level-2/
@@ -1206,3 +1205,8 @@ https://www.udemy.com/course/youtube-s-nulya-za-13-dney/
 https://www.udemy.com/course/pki-no-2/
 https://www.udemy.com/course/zbrush-2021/
 https://www.udemy.com/course/pugjade-html/
+https://www.udemy.com/course/unity-bolt-itd/
+https://www.udemy.com/course/swift-4-spritekit-space-war-2018/
+https://www.udemy.com/course/python3-oop/
+https://www.udemy.com/course/masterclass-on-conducting-online-interviews-m/
+https://www.udemy.com/course/kak-sozdat-online-skolu/

@@ -74,6 +74,7 @@ def find_urls(url):
                 file.seek(0)
                 json.dump(courses_data, file, indent=4, ensure_ascii=False)
             send_message(1792076176, name)
+        print(price + " $")
 
 
 async def main():
@@ -201,8 +202,7 @@ async def post():
                 time.sleep(5)
             except Exception as ex:
                 # send error
-                send_message(1792076176, 'ошибка')
-                print(ex)
+                send_message(1792076176, ex)
             finally:
                 driver.close()
                 driver.quit()
