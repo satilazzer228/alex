@@ -1,11 +1,9 @@
 https://www.udemy.com/course/beginners-java/
 https://www.udemy.com/course/pyqt5-python-gui/
-https://www.udemy.com/course/javamm-project/
 https://www.udemy.com/course/mvvm-ios/
 https://www.udemy.com/course/fastmodelingtp/
 https://www.udemy.com/course/amrunru-wordpress/
 https://www.udemy.com/course/sait-za-40-chasov/
-https://www.udemy.com/course/django-pavlov-school/
 https://www.udemy.com/course/macos-swift-xcode-level-2/
 https://www.udemy.com/course/htmlcssjs/
 https://www.udemy.com/course/pyqt5-vh/
@@ -1210,3 +1208,7 @@ https://www.udemy.com/course/swift-4-spritekit-space-war-2018/
 https://www.udemy.com/course/python3-oop/
 https://www.udemy.com/course/masterclass-on-conducting-online-interviews-m/
 https://www.udemy.com/course/kak-sozdat-online-skolu/
+https://www.udemy.com/course/django-pavlov-school/
+https://www.udemy.com/course/javamm-project/
+https://www.udemy.com/course/java-beginner-betry/
+https://www.udemy.com/course/lerbeecom/

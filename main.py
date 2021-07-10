@@ -73,8 +73,6 @@ def find_urls(url):
                 courses_data.update(new_course_data)
                 file.seek(0)
                 json.dump(courses_data, file, indent=4, ensure_ascii=False)
-            send_message(1792076176, name)
-        print(price + " $")
 
 
 async def main():
@@ -88,13 +86,15 @@ async def main():
                         for page in range(1, 100)]  # page_number index of url
                     pool.map(find_urls, all_pages_list)
                 # wait while post
-                await post()  # wait while sleep
+                await post()
+                # wait while sleep
             await asyncio.sleep(100)
         except Exception as e:
             pass
 
 
 async def post():
+    send_message(1792076176, 'post')
     try:
         # post
         with open('Новые.json', 'r+', encoding='utf-8') as file:
