@@ -1,2 +1,2 @@
 worker: python main.py
-web: gunicorn gettingstarted.wsgi
+web: python manage.py runserver localhost:5000
