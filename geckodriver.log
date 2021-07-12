@@ -87,3 +87,254 @@ JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line
 JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
 * Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
 1625729088346	Marionette	INFO	Stopped listening on port 58700
+1625924728336	geckodriver	INFO	Listening on 127.0.0.1:51996
+1625924728888	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileIrPZUi"
+*** You are running in headless mode.
+1625924729913	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileIrPZUi\\search.json.mozlz4", (void 0)))
+1625924732294	Marionette	INFO	Listening on port 52001
+1625924732587	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 129: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 129: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.06c6ee58c3810956b7509218508c7b56.html?origin=https%3A%2F%2Fskladchik.com, line 18: Error: Network error.
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1625924776798	Marionette	INFO	Stopped listening on port 52001
+1625987603600	geckodriver	INFO	Listening on 127.0.0.1:64935
+1625987604163	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileCVCkiC"
+1625987605393	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileCVCkiC\\search.json.mozlz4", (void 0)))
+1625987609156	Marionette	INFO	Listening on port 64940
+1625987609534	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625987622785	Marionette	INFO	Stopped listening on port 64940
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625988698221	geckodriver	INFO	Listening on 127.0.0.1:65171
+1625988698240	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilePCmhrU"
+1625988698861	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilePCmhrU\\search.json.mozlz4", (void 0)))
+1625988702314	Marionette	INFO	Listening on port 65176
+1625988702446	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1625988702936	Marionette	INFO	Stopped listening on port 65176
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625989538677	geckodriver	INFO	Listening on 127.0.0.1:52684
+1625989539231	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileT4eXo4"
+*** You are running in headless mode.
+1625989540100	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileT4eXo4\\search.json.mozlz4", (void 0)))
+1625989541688	Marionette	INFO	Listening on port 52689
+1625989541880	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 129: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 129: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1625989600813	Marionette	INFO	Stopped listening on port 52689
+1625989601638	geckodriver	INFO	Listening on 127.0.0.1:52768
+1625989602188	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofiledhHXga"
+*** You are running in headless mode.
+1625989602546	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofiledhHXga\\search.json.mozlz4", (void 0)))
+1625989603659	Marionette	INFO	Listening on port 52773
+1625989603737	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 129: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 129: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1625989652910	Marionette	INFO	Stopped listening on port 52773
+1625989653618	geckodriver	INFO	Listening on 127.0.0.1:52839
+1625989654176	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileBhW1Nk"
+*** You are running in headless mode.
+1625989654493	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileBhW1Nk\\search.json.mozlz4", (void 0)))
+1625989655481	Marionette	INFO	Listening on port 52844
+1625989655718	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 129: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 129: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1625989752287	Marionette	INFO	Stopped listening on port 52844
+1625989995344	geckodriver	INFO	Listening on 127.0.0.1:54701
+1625989995922	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile3ej181"
+*** You are running in headless mode.
+1625989996646	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile3ej181\\search.json.mozlz4", (void 0)))
+1625989997939	Marionette	INFO	Listening on port 54706
+1625989997969	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 129: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 129: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.06c6ee58c3810956b7509218508c7b56.html?origin=https%3A%2F%2Fskladchik.com, line 18: Error: Network error.
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1625990046701	Marionette	INFO	Stopped listening on port 54706
+1625990435055	geckodriver	INFO	Listening on 127.0.0.1:58196
+1625990435595	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileiAMCe1"
+*** You are running in headless mode.
+1625990435938	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileiAMCe1\\search.json.mozlz4", (void 0)))
+1625990437147	Marionette	INFO	Listening on port 58201
+1625990437632	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 129: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 129: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.06c6ee58c3810956b7509218508c7b56.html?origin=https%3A%2F%2Fskladchik.com, line 18: Error: Network error.
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://skladchik.com/js/jp/whorl/fetch.js?_v=ccf9e37e, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1625990487069	Marionette	INFO	Stopped listening on port 58201
