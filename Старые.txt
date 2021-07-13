@@ -1,4 +1,3 @@
-https://www.udemy.com/course/beginners-java/
 https://www.udemy.com/course/mvvm-ios/
 https://www.udemy.com/course/amrunru-wordpress/
 https://www.udemy.com/course/sait-za-40-chasov/
@@ -6,7 +5,6 @@ https://www.udemy.com/course/macos-swift-xcode-level-2/
 https://www.udemy.com/course/htmlcssjs/
 https://www.udemy.com/course/pyqt5-vh/
 https://www.udemy.com/course/typescript-bootcamp/
-https://www.udemy.com/course/php-mykurs-s-zero/
 https://www.udemy.com/course/gulp-pug-scss/
 https://www.udemy.com/course/lpwordpress/
 https://www.udemy.com/course/html-gulp-layout-of-the-store/
@@ -1215,3 +1213,4 @@ https://www.udemy.com/course/fastmodelingtp/
 https://www.udemy.com/course/php-for-very-beginners/
 https://www.udemy.com/course/pyqt5-python-gui/
 https://www.udemy.com/course/konstsales/
+https://www.udemy.com/course/beginners-java/

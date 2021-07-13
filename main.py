@@ -2,7 +2,6 @@ import asyncio
 import json
 import multiprocessing
 import time
-from fake_useragent import UserAgent
 import requests
 from bs4 import BeautifulSoup
 from selenium import webdriver
@@ -11,7 +10,6 @@ from selenium.webdriver.common.keys import Keys
 from config import BOT_TOKEN, login, password, admin_id
 
 # useragent
-useragent = UserAgent()
 
 
 def send_message(chat_id, text):  # send telegram message
@@ -46,9 +44,8 @@ def write_file(link, lang, price):  # write to file
 
 def find_urls(url):
     headers = {
-        # "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
-        # Chrome/89.0.4389.128 Safari/537.36 OPR/75.0.3969.285"
-        "user-agent": useragent.random
+        'user-agent': "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) "
+                      "Chrome/90.0.4430.212 Safari/537.36 "
     }
     r = requests.get(url, headers=headers)
     data = json.loads(r.text)  # data of course(json)
@@ -83,7 +80,7 @@ async def main():
         try:
             page_ids = [288, 268, 328, 294, 292, 269, 290, 273, 276, 278]  # page ids
             for page_id in page_ids:
-                with multiprocessing.Pool(processes=16 ) as pool:  # multiprocessing
+                with multiprocessing.Pool(processes=16) as pool:  # multiprocessing
                     all_pages_list = [
                         f'https://www.udemy.com/api-2.0/discovery-units/all_courses/?p={page}&page_size=16&subcategory=&instructional_level=&lang=&price=&duration=&closed_captions=&subs_filter_type=&sort=newest&category_id={page_id}&source_page=category_page&locale=ru_RU&currency=usd&navigation_locale=en_US&skip_price=true&sos=pc&fl=cat'
                         for page in range(1, 100)]  # page_number index of url
