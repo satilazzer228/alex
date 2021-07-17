@@ -1213,3 +1213,6 @@ https://www.udemy.com/course/php-for-very-beginners/
 https://www.udemy.com/course/pyqt5-python-gui/
 https://www.udemy.com/course/konstsales/
 https://www.udemy.com/course/beginners-java/
+https://www.udemy.com/course/html5-dikov/
+https://www.udemy.com/course/gulp-pug-scss/
+https://www.udemy.com/course/php-mykurs-s-zero/
